@@ -40,16 +40,17 @@ namespace _10.LambdaFunctions
             //Delegate  is a class ->  is a special function that has a input parameter, and return type ;
 
             // the Where() method is part of Linq  Library 
-            Func<int, bool> function = x => x != 0;
-            int[] array = new int[] {0, 5, 6, 8, 9, 11 } ;
+            Func<int, bool> function = x => x == 0;
+            // Delegate   -!   on the left            // Lambda expression  here on the right !!  
+            int[] array = new int[] { 0, 5, 6, 8, 0, 9, 11 };
             function(5); //true -evaluated by some rule , by some bool statment
             function(0); // false 
             function(-2); //  true 
 
             Console.WriteLine(string.Join(" ", array.Where(function))); // where method, take all elements that are true when passed to function
-                                                         // where it the rule the con dition under which elements are checked !
-                                           // the result here it we take and print all that is  different than  0 ;
-                                           // our fuinction test if an element is = 0 or not -i e different than 0;
+                                                                        // where it the rule the con dition under which elements are checked !
+                                                                        // the result here it we take and print all that is  different than  0 ;
+                                                                        // our fuinction test if an element is = 0 or not -i e different than 0;
         }
     }
 }
