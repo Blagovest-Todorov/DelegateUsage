@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.exe
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.dll
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\bin\Debug\netcoreapp3.1\10.LambdaFunctions.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.dll
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\10.LambdaFunctions\obj\Debug\netcoreapp3.1\10.LambdaFunctions.genruntimeconfig.cache
